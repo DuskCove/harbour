@@ -93,15 +93,15 @@
 
 | Item                                | Type    | Portion Size        | Calories per Portion | Flavour            | Texture          | Pack Size | Biscuits per Pack | URL                                                            | Notes                               |
 | ----------------------------------- | ------- | ------------------- | -------------------- | ------------------ | ---------------- | --------- | ----------------- | -------------------------------------------------------------- | ----------------------------------- |
-| McVitie's Rich Tea                  | Biscuit | 1 biscuit (~12 g)   | 59 kcal              | Plain              | Crunchy          | 400 g     | ~36               | [Link](https://www.mcvities.co.uk/products/rich-tea)           | Classic plain biscuit, thin & crisp |
-| McVitie's Digestives                | Biscuit | 1 biscuit (~14 g)   | 70 kcal              | Plain digestive    | Crunchy          | 400 g     | ~24               | [Link](https://www.mcvities.co.uk/products/digestives)         | Standard digestive biscuit          |
-| McVitie's Digestives Milk Chocolate | Biscuit | 1 biscuit (~16.7 g) | 83 kcal              | Milk chocolate     | Crunchy + smooth | 400 g     | ~16               | [Link](https://www.mcvities.co.uk/products/digestives)         | Chocolate-coated variant            |
-| McVitie's Hobnobs                   | Biscuit | 1 biscuit (~16 g)   | 89 kcal              | Oat                | Crunchy          | 250 g     | ~17               | [Link](https://www.mcvities.co.uk/products/hobnobs)            | Popular oat biscuit                 |
-| McVitie's Jammy Dodgers             | Biscuit | 1 biscuit (~26 g)   | 104 kcal             | Raspberry jam      | Crunchy + chewy  | 300 g     | ~12               | [Link](https://www.mcvities.co.uk/products/jammy-dodgers)      | Jam-filled sandwich biscuit         |
-| McVitie's Fruit Shortcake           | Biscuit | 1 biscuit (~15 g)   | 72 kcal              | Fruit & shortcake  | Crunchy          | 250 g     | ~25               | [Link](https://www.mcvities.co.uk/products/fruit-shortcake)    | Fruit & shortcake combo             |
-| McVitie's Shortbread Fingers        | Biscuit | 1 finger (~19 g)    | 92 kcal              | Butter shortbread  | Crunchy          | 250 g     | ~13               | [Link](https://www.mcvities.co.uk/products/shortbread-fingers) | Classic buttery shortbread          |
-| McVitie's Fruit & Oat Cookies       | Biscuit | 1 biscuit (~16 g)   | 80 kcal              | Mixed fruit & oat  | Crunchy          | 250 g     | ~16               | [Link](https://www.mcvities.co.uk/products/fruit-oat-cookies)  | Dried fruit in oat base             |
-| McVitie's Fruit & Nut Cookies       | Biscuit | 1 biscuit (~18 g)   | 88 kcal              | Mixed fruit & nuts | Crunchy          | 250 g     | ~14               | [Link](https://www.mcvities.co.uk/products/fruit-nut-cookies)  | Fruit and nut combination           |
+| McVitie's Rich Tea                  | Biscuit | 1 biscuit (~12 g)   | 59 kcal              | Plain              | Crunchy          | 400 g     | ~34 biscuits      | [Link](https://www.mcvities.co.uk/products/rich-tea)           | Classic plain biscuit, thin & crisp |
+| McVitie's Digestives                | Biscuit | 1 biscuit (~14 g)   | 70 kcal              | Plain digestive    | Crunchy          | 400 g     | ~26 biscuits      | [Link](https://www.mcvities.co.uk/products/digestives)         | Standard digestive biscuit          |
+| McVitie's Digestives Milk Chocolate | Biscuit | 1 biscuit (~16.7 g) | 83 kcal              | Milk chocolate     | Crunchy + smooth | 400 g     | ~24 biscuits      | [Link](https://www.mcvities.co.uk/products/digestives)         | Chocolate-coated variant            |
+| McVitie's Hobnobs                   | Biscuit | 1 biscuit (~16 g)   | 89 kcal              | Oat                | Crunchy          | 250 g     | ~16 biscuits      | [Link](https://www.mcvities.co.uk/products/hobnobs)            | Popular oat biscuit                 |
+| McVitie's Jammy Dodgers             | Biscuit | 1 biscuit (~26 g)   | 104 kcal             | Raspberry jam      | Crunchy + chewy  | 300 g     | ~12 biscuits      | [Link](https://www.mcvities.co.uk/products/jammy-dodgers)      | Jam-filled sandwich biscuit         |
+| McVitie's Fruit Shortcake           | Biscuit | 1 biscuit (~15 g)   | 72 kcal              | Fruit & shortcake  | Crunchy          | 250 g     | ~16 biscuits      | [Link](https://www.mcvities.co.uk/products/fruit-shortcake)    | Fruit & shortcake combo             |
+| McVitie's Shortbread Fingers        | Biscuit | 1 finger (~19 g)    | 92 kcal              | Butter shortbread  | Crunchy          | 250 g     | ~13 fingers       | [Link](https://www.mcvities.co.uk/products/shortbread-fingers) | Classic buttery shortbread          |
+| McVitie's Fruit & Oat Cookies       | Biscuit | 1 biscuit (~16 g)   | 80 kcal              | Mixed fruit & oat  | Crunchy          | 250 g     | ~16 biscuits      | [Link](https://www.mcvities.co.uk/products/fruit-oat-cookies)  | Dried fruit in oat base             |
+| McVitie's Fruit & Nut Cookies       | Biscuit | 1 biscuit (~18 g)   | 88 kcal              | Mixed fruit & nuts | Crunchy          | 250 g     | ~14 biscuits      | [Link](https://www.mcvities.co.uk/products/fruit-nut-cookies)  | Fruit and nut combination           |
 
 ### **8. Bars & Snack Bars (Biscuit/Wafer Focus)**
 
@@ -169,7 +169,6 @@
 | Häagen-Dazs Chocolate                 | Ice Cream           | 1010 kcal         | Chocolate               | 500 ml tub                           | 1 tub     | [Link](https://www.haagendazs.co.uk/ice-cream/chocolate)            |
 | Magnum Classic                        | Ice Cream Bar       | 250 kcal          | Chocolate & Vanilla     | 110 ml bar                           | 1 bar     | [Link](https://www.magnum.co.uk/products/classic)                   |
 | Magnum Double Caramel                 | Ice Cream Bar       | 270 kcal          | Caramel & Chocolate     | 110 ml bar                           | 1 bar     | [Link](https://www.magnum.co.uk/products/double-caramel)            |
-| Solero Exotic                         | Ice Cream Bar       | 160 kcal          | Exotic fruit            | 80 ml bar                            | 1 bar     | [Link](https://www.solero.co.uk/)                                   |
 | Cornetto Classic                      | Ice Cream Cone      | 200 kcal          | Vanilla & Chocolate     | 90 ml cone                           | 1 cone    | [Link](https://www.cornetto.co.uk/)                                 |
 | Magnum Multipack (Classic x4)         | Ice Cream Bar       | 250 kcal          | Chocolate & Vanilla     | 4 bars in pack, 250 kcal per bar     | 4 bars    | [Link](https://www.magnum.co.uk/products/classic-multipack)         |
 | Häagen-Dazs Multipack (Vanilla x4)    | Ice Cream Bar       | 250 kcal          | Vanilla                 | 4 mini tubs, 250 kcal per tub        | 4 tubs    | [Link](https://www.haagendazs.co.uk/)                               |
@@ -186,8 +185,6 @@
 | Kellogg's Frosties        | Cereal | 375 kcal         | Sugar-coated Cornflakes | Sweetened cornflakes            | 375 g     | [Link](https://www.kelloggs.co.uk/en_GB/products/frosties.html)  |
 | Nestlé Shreddies          | Cereal | 350 kcal         | Whole wheat             | Crunchy wheat squares           | 500 g     | [Link](https://www.nestle.co.uk/brands/shreddies)                |
 | Nestlé Cheerios Chocolate | Cereal | 380 kcal         | Chocolate O’s           | Chocolate-flavoured oat cereal  | 375 g     | [Link](https://www.nestle.co.uk/brands/cheerios)                 |
-| Weetabix                  | Cereal | 350 kcal         | Whole grain             | High-fibre wheat biscuits       | 440 g     | [Link](https://www.weetabix.co.uk/)                              |
-| Nestlé Nesquik Cereal     | Cereal | 375 kcal         | Chocolate               | Chocolatey puffed wheat         | 375 g     | [Link](https://www.nestle.co.uk/brands/nesquik)                  |
 
 ### **15. Sandwiches**
 
