@@ -55,7 +55,7 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 | [Hearty-Meals-Chicken-Kiew-Edition.md](./blueprints/Hearty-Meals-Chicken-Kiew-Edition.md)                               | Medium        |
 | [Hearty-Meals-Crumpets-And-Scrambled-Eggs-Edition.md](./blueprints/Hearty-Meals-Crumpets-And-Scrambled-Eggs-Edition.md) | Medium        |
 | [Hearty-Meals-Fish-Pie-Edition.md](./blueprints/Hearty-Meals-Fish-Pie-Edition.md)                                       | Medium        |
-| [Hearty-Meals-Road-Beef-Edition.md](./blueprints/Hearty-Meals-Road-Beef-Edition.md)                                     | Medium        |
+| [Hearty-Meals-Roast-Beef-Edition.md](./blueprints/Hearty-Meals-Roast-Beef-Edition.md)                                   | Medium        |
 | [Hearty-Meals-Shepards-Pie-Edition.md](./blueprints/Hearty-Meals-Shepards-Pie-Edition.md)                               | Medium        |
 
 ### Low-Calorie Challenges
