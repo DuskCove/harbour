@@ -2,25 +2,51 @@
 
 This repository is a curated collection of **structured eating challenges and food-based events**, organized into detailed plans referred to as **"blueprints."**
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Inventory](#inventory)
+- [Blueprints](#blueprints)
+  - [Single Bites](#single-bites)
+  - [Walks](#walks)
+  - [Relaxed Walks](#relaxed-walks)
+  - [MegaPudding Mountain](#megapudding-mountain)
+  - [Tasting Events](#tasting-events)
+  - [Themed Challenges](#themed-challenges)
+- [Conceptual Themes](#conceptual-themes)
+
 ## Overview
 
 The repository serves as a catalog of **blueprints**—systematic guides designed to facilitate and document various eating challenges and food-related events. These blueprints encompass a range of activities, from casual snack walks to elaborate, multi-course consumption events.
 
-- **Inventory**: A comprehensive catalog of items associated with these challenges.
-- **Blueprints**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
+- **[Inventory](./Inventory)**: A comprehensive catalog of items associated with these challenges.
+- **[Blueprints](./Blueprints)**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
 
-## Blueprint Categories
+## Blueprints Categories
 
-- **Single Bites**: Challenges centered around consuming a single item or a small number of items in a specific setting.
-- **Walks**: Events that combine walking with intermittent eating sessions, promoting both physical activity and culinary enjoyment.
-- **Relaxed Walks**: Casual outings that integrate light eating experiences with leisurely strolls.
-- **MegaPudding Mountain**: Elaborate challenges focusing on consuming a large quantity of pudding, often involving multiple participants and creative presentation.
-- **Tasting Events**: Structured events aimed at sampling a variety of foods, emphasizing tasting over quantity.
-- **Themed Challenges**: Events designed around specific themes or concepts, adding creativity and engagement to the eating experience.
+### Single Bites
 
-## Index
+Challenges centered around consuming a single item or a small number of items in a specific setting.
 
-[Index of Blueprints](https://github.com/DuskCove/harbour/blob/main/Index.md)
+### Walks
+
+Events that combine walking with intermittent eating sessions, promoting both physical activity and culinary enjoyment.
+
+### Relaxed Walks
+
+Casual outings that integrate light eating experiences with leisurely strolls.
+
+### MegaPudding Mountain
+
+Elaborate challenges focusing on consuming a large quantity of pudding, often involving multiple participants and creative presentation.
+
+### Tasting Events
+
+Structured events aimed at sampling a variety of foods, emphasizing tasting over quantity.
+
+### Themed Challenges
+
+Events designed around specific themes or concepts, adding creativity and engagement to the eating experience.
 
 ## Conceptual Themes
 
@@ -30,6 +56,4 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 
 ---
 
----
-
-This `README.md` provides an overview of the repository’s theme and organization, making it easier for new contributors or participants to understand the purpose and scope of the blueprints.
+This `README.md` provides an organized and professional overview of the repository, with easy navigation to inventory and blueprint content.

@@ -1,4 +1,4 @@
-$baseUrl = "https://github.com/DuskCove/harbour/blob/main/"
+$baseUrl = ""
 $outputFile = "links.md"
 
 Remove-Item $outputFile -ErrorAction Ignore
