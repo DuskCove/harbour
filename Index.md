@@ -1,3 +1,7 @@
+## Root
+
+[ReadMe.md](ReadMe.md)
+
 ## inventory
 
 [Inventory.md](inventory/Inventory.md)
@@ -7,6 +11,22 @@
 [GravityFeed-5Litres.md](blueprints/GravityFeed-5Litres.md)
 
 [GravityFeed.md](blueprints/GravityFeed.md)
+
+[Hearty-Meals-Category-Blueprint.md](blueprints/Hearty-Meals-Category-Blueprint.md)
+
+[Hearty-Meals-Chicken-And-Mushroom-Pie-Edition.md](blueprints/Hearty-Meals-Chicken-And-Mushroom-Pie-Edition.md)
+
+[Hearty-Meals-Chicken-Kiew-Edition.md](blueprints/Hearty-Meals-Chicken-Kiew-Edition.md)
+
+[Hearty-Meals-Fish-Pie-Edition.md](blueprints/Hearty-Meals-Fish-Pie-Edition.md)
+
+[Hearty-Meals-Road-Beef-Edition.md](blueprints/Hearty-Meals-Road-Beef-Edition.md)
+
+[Hearty-Meals-Shepards-Pie-Edition.md](blueprints/Hearty-Meals-Shepards-Pie-Edition.md)
+
+[Low-Calorie-Mega-Jelly-Endurance.md](blueprints/Low-Calorie-Mega-Jelly-Endurance.md)
+
+[Low-Calorie-Quick-Jelly-Challange.md](blueprints/Low-Calorie-Quick-Jelly-Challange.md)
 
 [MegaBowl-ApplePie-Avalanche.md](blueprints/MegaBowl-ApplePie-Avalanche.md)
 
