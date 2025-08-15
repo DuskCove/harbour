@@ -10,6 +10,14 @@
 
 ## blueprints
 
+[Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md)
+
+[Experimental-9-Litre-Cereal-And-Milk-Flood.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Experimental-9-Litre-Cereal-And-Milk-Flood.md)
+
+[Experimental-9-Litre-Ice-Cream-Volcano.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Experimental-9-Litre-Ice-Cream-Volcano.md)
+
+[Experimental-9-Litre-Layered-Dessert-Tower.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Experimental-9-Litre-Layered-Dessert-Tower.md)
+
 [Gravity-Feed-5Litres.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Gravity-Feed-5Litres.md)
 
 [Gravity-Feed.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Gravity-Feed.md)
@@ -46,7 +54,7 @@
 
 [Mega-Pudding-Mountain.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Mega-Pudding-Mountain.md)
 
-[Sandwich-Mege-Pile.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Sandwich-Mege-Pile.md)
+[Sandwich-Mega-Pile.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Sandwich-Mega-Pile.md)
 
 [Sandwich-Pile.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Sandwich-Pile.md)
 
@@ -79,3 +87,4 @@
 [Zen-Seasonal-Snack-Ramble.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Zen-Seasonal-Snack-Ramble.md)
 
 [Zen-Woods-Snack-Walk.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Zen-Woods-Snack-Walk.md)
+
