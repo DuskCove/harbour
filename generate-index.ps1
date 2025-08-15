@@ -1,3 +1,4 @@
+$baseUrl = "https://github.com/DuskCove/harbour/tree/main/"
 $outputFile = "Index.md"
 
 Remove-Item $outputFile -ErrorAction Ignore
@@ -6,7 +7,7 @@ Remove-Item $outputFile -ErrorAction Ignore
 if (Test-Path ".\ReadMe.md") {
     Add-Content $outputFile "## Root"
     Add-Content $outputFile ""
-    Add-Content $outputFile ("[ReadMe.md]({0})" -f ("ReadMe.md"))
+    Add-Content $outputFile ("[ReadMe.md]({0}{1})" -f $baseUrl, "ReadMe.md")
     Add-Content $outputFile ""  # Blank line
 }
 
@@ -17,7 +18,8 @@ foreach ($dir in "inventory", "blueprints") {
     Get-ChildItem -Path ".\$dir" -Recurse -File |
         Sort-Object Name |
         ForEach-Object {
-            Add-Content $outputFile ("[{0}]({1})" -f $_.Name,
+            Add-Content $outputFile ("[{0}]({1}{2})" -f $_.Name,
+                $baseUrl,
                 ($_.FullName.Substring((Get-Location).Path.Length + 1) -replace "\\","/")
             )
             Add-Content $outputFile ""  # Blank line between rows
