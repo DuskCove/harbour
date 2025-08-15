@@ -11,21 +11,24 @@ This repository is a curated collection of **structured eating challenges and fo
   - [Gravity Feed Challenges](#gravity-feed-challenges)
   - [Hearty Meals](#hearty-meals)
   - [Low-Calorie Challenges](#low-calorie-challenges)
-  - [Mega Bowls & Puddings](#mega-bowls--puddings)
+  - [Mega Bowl Challenges](#mega-bowl-challenges)
   - [Sandwich Challenges](#sandwich-challenges)
-  - [Schedule-Based Challenges](#schedule-based-challenges)
+  - [Scheduled Eating Challenges](#scheduled-eating-challenges)
   - [Zen / Walking Challenges](#zen--walking-challenges)
+- [Conceptual Themes](#conceptual-themes)
+
+---
 
 ## Overview
 
 The repository serves as a catalog of **blueprints**—systematic guides designed to facilitate and document various eating challenges and food-related events. These blueprints encompass a range of activities, from casual snack walks to elaborate, multi-course consumption events.
 
-- **[Inventory](./inventory/Inventory.md)**: A comprehensive catalog of items associated with these challenges.
+- **[Inventory](./inventory/Inventory.md)**: Comprehensive catalog of items associated with these challenges.
 - **[Blueprints](./Index.md)**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
 
 ---
 
-## Blueprints
+## Blueprints Categories
 
 ### Experimental / Extreme Challenges
 
@@ -40,8 +43,8 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 
 | Blueprint                                                       | Achievability |
 | --------------------------------------------------------------- | ------------- |
-| [Gravity-Feed-5Litres.md](./blueprints/Gravity-Feed-5Litres.md) | Extreme       |
-| [Gravity-Feed.md](./blueprints/Gravity-Feed.md)                 | Extreme       |
+| [Gravity-Feed-5Litres.md](./blueprints/Gravity-Feed-5Litres.md) | Medium        |
+| [Gravity-Feed.md](./blueprints/Gravity-Feed.md)                 | Medium        |
 
 ### Hearty Meals
 
@@ -63,7 +66,7 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 | [Low-Calorie-Quick-Jelly-Challenge.md](./blueprints/Low-Calorie-Quick-Jelly-Challenge.md) | Medium        |
 | [Low-Calorie-Tinned-Fuit-Challenge.md](./blueprints/Low-Calorie-Tinned-Fuit-Challenge.md) | Medium        |
 
-### Mega Bowls & Puddings
+### Mega Bowl Challenges
 
 | Blueprint                                                                                 | Achievability |
 | ----------------------------------------------------------------------------------------- | ------------- |
@@ -84,7 +87,7 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 | [Sandwich-Timed-Eating-Challenge.md](./blueprints/Sandwich-Timed-Eating-Challenge.md) | Medium        |
 | [Sandwich-Zen-Walk.md](./blueprints/Sandwich-Zen-Walk.md)                             | Medium        |
 
-### Schedule-Based Challenges
+### Scheduled Eating Challenges
 
 | Blueprint                                                                                                   | Achievability |
 | ----------------------------------------------------------------------------------------------------------- | ------------- |
@@ -108,4 +111,13 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 
 ---
 
-This `README.md` now fully reflects the **Experimental / Extreme Challenge** section and all new blueprints in your repository.
+## Conceptual Themes
+
+- The repository blends **playful experimentation** with **structured planning**, creating memorable and enjoyable food experiences.
+- Detailed inventories and blueprints reflect a **methodical approach**, ensuring consistency and quality across challenges.
+- The structure introduces an element of **gamification**, encouraging participants to engage with challenges in a thoughtful and intentional way.
+- **Achievability ratings** help participants gauge which challenges are approachable versus extreme.
+
+---
+
+This `README.md` provides an organized and professional overview of the repository, with easy navigation to inventory and blueprint content.
