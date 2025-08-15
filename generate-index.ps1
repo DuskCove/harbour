@@ -3,11 +3,18 @@ $outputFile = "Index.md"
 
 Remove-Item $outputFile -ErrorAction Ignore
 
-# Include ReadMe.md from current directory if it exists
-if (Test-Path ".\ReadMe.md") {
-    Add-Content $outputFile "## Root"
+Add-Content $outputFile "## Root"
     Add-Content $outputFile ""
+
+# Include ReadMe.md from current directory if it exists
+if (Test-Path ".\ReadMe.md") {    
     Add-Content $outputFile ("[ReadMe.md]({0}{1})" -f $baseUrl, "ReadMe.md")
+    Add-Content $outputFile ""  # Blank line
+}
+
+# Include ReadMe.md from current directory if it exists
+if (Test-Path ".\Index.md") {    
+    Add-Content $outputFile ("[Index.md]({0}{1})" -f $baseUrl, "Index.md")
     Add-Content $outputFile ""  # Blank line
 }
 
