@@ -20,7 +20,7 @@ This repository is a curated collection of **structured eating challenges and fo
 The repository serves as a catalog of **blueprints**—systematic guides designed to facilitate and document various eating challenges and food-related events. These blueprints encompass a range of activities, from casual snack walks to elaborate, multi-course consumption events.
 
 - **[Inventory](./inventory/Inventory.md)**: A comprehensive catalog of items associated with these challenges.
-- **[Blueprints](./index.md)**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
+- **[Blueprints](./Index.md)**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
 
 ## Blueprints Categories
 
