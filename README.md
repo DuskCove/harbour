@@ -7,15 +7,14 @@ This repository is a curated collection of **structured eating challenges and fo
 - [Overview](#overview)
 - [Inventory](#inventory)
 - [Blueprints](#blueprints)
-  - [Gravity / Feed Challenges](#gravity--feed-challenges)
-  - [Zen / Walking Challenges](#zen--walking-challenges)
+  - [Experimental / Extreme Challenges](#experimental--extreme-challenges)
+  - [Gravity Feed Challenges](#gravity-feed-challenges)
   - [Hearty Meals](#hearty-meals)
   - [Low-Calorie Challenges](#low-calorie-challenges)
+  - [Mega Bowls & Puddings](#mega-bowls--puddings)
   - [Sandwich Challenges](#sandwich-challenges)
-  - [MegaBowl Challenges](#megabowl-challenges)
-  - [Schedules](#schedules)
-  - [Extreme / Experimental Challenges](#extreme--experimental-challenges)
-- [Conceptual Themes](#conceptual-themes)
+  - [Schedule-Based Challenges](#schedule-based-challenges)
+  - [Zen / Walking Challenges](#zen--walking-challenges)
 
 ## Overview
 
@@ -24,14 +23,25 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 - **[Inventory](./inventory/Inventory.md)**: A comprehensive catalog of items associated with these challenges.
 - **[Blueprints](./Index.md)**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
 
+---
+
 ## Blueprints
 
-### Gravity Feed
+### Experimental / Extreme Challenges
+
+| Blueprint                                                                                                         | Achievability |
+| ----------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md](./blueprints/Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md) | Extreme       |
+| [Experimental-9-Litre-Cereal-And-Milk-Flood.md](./blueprints/Experimental-9-Litre-Cereal-And-Milk-Flood.md)       | Extreme       |
+| [Experimental-9-Litre-Ice-Cream-Volcano.md](./blueprints/Experimental-9-Litre-Ice-Cream-Volcano.md)               | Extreme       |
+| [Experimental-9-Litre-Layered-Dessert-Tower.md](./blueprints/Experimental-9-Litre-Layered-Dessert-Tower.md)       | Extreme       |
+
+### Gravity Feed Challenges
 
 | Blueprint                                                       | Achievability |
 | --------------------------------------------------------------- | ------------- |
-| [Gravity-Feed-5Litres.md](./blueprints/Gravity-Feed-5Litres.md) | Medium        |
-| [Gravity-Feed.md](./blueprints/Gravity-Feed.md)                 | Medium        |
+| [Gravity-Feed-5Litres.md](./blueprints/Gravity-Feed-5Litres.md) | Extreme       |
+| [Gravity-Feed.md](./blueprints/Gravity-Feed.md)                 | Extreme       |
 
 ### Hearty Meals
 
@@ -47,13 +57,13 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 
 ### Low-Calorie Challenges
 
-| Blueprint                                                                                  | Achievability |
-| ------------------------------------------------------------------------------------------ | ------------- |
-| [Low-Calorie-Mega-Jelly-Endurance.md](./blueprints/Low-Calorie-Mega-Jelly-Endurance.md)    | Medium        |
-| [Low-Calorie-Quick-Jelly-Challenge.md](./blueprints/Low-Calorie-Quick-Jelly-Challenge.md)  | Easy          |
-| [Low-Calorie-Tinned-Fruit-Challenge.md](./blueprints/Low-Calorie-Tinned-Fuit-Challenge.md) | Medium        |
+| Blueprint                                                                                 | Achievability |
+| ----------------------------------------------------------------------------------------- | ------------- |
+| [Low-Calorie-Mega-Jelly-Endurance.md](./blueprints/Low-Calorie-Mega-Jelly-Endurance.md)   | Medium        |
+| [Low-Calorie-Quick-Jelly-Challenge.md](./blueprints/Low-Calorie-Quick-Jelly-Challenge.md) | Medium        |
+| [Low-Calorie-Tinned-Fuit-Challenge.md](./blueprints/Low-Calorie-Tinned-Fuit-Challenge.md) | Medium        |
 
-### MegaBowl Challenges
+### Mega Bowls & Puddings
 
 | Blueprint                                                                                 | Achievability |
 | ----------------------------------------------------------------------------------------- | ------------- |
@@ -68,25 +78,34 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 
 | Blueprint                                                                             | Achievability |
 | ------------------------------------------------------------------------------------- | ------------- |
+| [Sandwich-Mega-Pile.md](./blueprints/Sandwich-Mega-Pile.md)                           | Medium        |
 | [Sandwich-Pile.md](./blueprints/Sandwich-Pile.md)                                     | Medium        |
-| [Sandwich-Mege-Pile.md](./blueprints/Sandwich-Mege-Pile.md)                           | Extreme       |
 | [Sandwich-Stacked.md](./blueprints/Sandwich-Stacked.md)                               | Medium        |
 | [Sandwich-Timed-Eating-Challenge.md](./blueprints/Sandwich-Timed-Eating-Challenge.md) | Medium        |
 | [Sandwich-Zen-Walk.md](./blueprints/Sandwich-Zen-Walk.md)                             | Medium        |
 
-### Zen Walks
+### Schedule-Based Challenges
+
+| Blueprint                                                                                                   | Achievability |
+| ----------------------------------------------------------------------------------------------------------- | ------------- |
+| [Schedule-2Hour-Micro-Dose-Snack-Variations.md](./blueprints/Schedule-2Hour-Micro-Dose-Snack-Variations.md) | Medium        |
+| [Schedule-2Hour-MicroDose.md](./blueprints/Schedule-2Hour-MicroDose.md)                                     | Medium        |
+| [Schedule-2Hour-Mixed.md](./blueprints/Schedule-2Hour-Mixed.md)                                             | Medium        |
+| [Schedule-3Hour-MrKippling-5000-Cals.md](./blueprints/Schedule-3Hour-MrKippling-5000-Cals.md)               | Extreme       |
+| [Schedule-3Hour-MrKippling.md](./blueprints/Schedule-3Hour-MrKippling.md)                                   | Extreme       |
+| [Schedule-90Mins-Single-Bites.md](./blueprints/Schedule-90Mins-Single-Bites.md)                             | Medium        |
+
+### Zen / Walking Challenges
 
 | Blueprint                                                                       | Achievability |
 | ------------------------------------------------------------------------------- | ------------- |
-| [Zen-Biscuit-And-Wafer-Stroll.md](./blueprints/Zen-Biscuit-And-Wafer-Stroll.md) | Easy          |
-| [Zen-Fruit-And-Nut-Wander.md](./blueprints/Zen-Fruit-And-Nut-Wander.md)         | Easy          |
-| [Zen-Mini-Dessert-Meander.md](./blueprints/Zen-Mini-Dessert-Meander.md)         | Easy          |
-| [Zen-Mini-Savory-Saunter.md](./blueprints/Zen-Mini-Savory-Saunter.md)           | Easy          |
-| [Zen-Seasonal-Snack-Ramble.md](./blueprints/Zen-Seasonal-Snack-Ramble.md)       | Easy          |
-| [Zen-Woods-Snack-Walk.md](./blueprints/Zen-Woods-Snack-Walk.md)                 | Easy          |
+| [Zen-Biscuit-And-Wafer-Stroll.md](./blueprints/Zen-Biscuit-And-Wafer-Stroll.md) | Medium        |
+| [Zen-Fruit-And-Nut-Wander.md](./blueprints/Zen-Fruit-And-Nut-Wander.md)         | Medium        |
+| [Zen-Mini-Dessert-Meander.md](./blueprints/Zen-Mini-Dessert-Meander.md)         | Medium        |
+| [Zen-Mini-Savory-Saunter.md](./blueprints/Zen-Mini-Savory-Saunter.md)           | Medium        |
+| [Zen-Seasonal-Snack-Ramble.md](./blueprints/Zen-Seasonal-Snack-Ramble.md)       | Medium        |
+| [Zen-Woods-Snack-Walk.md](./blueprints/Zen-Woods-Snack-Walk.md)                 | Medium        |
 
-### Experimental / Extreme
+---
 
-| Blueprint                                                                                                         | Achievability |
-| ----------------------------------------------------------------------------------------------------------------- | ------------- |
-| [Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md](./blueprints/Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md) | Extreme       |
+This `README.md` now fully reflects the **Experimental / Extreme Challenge** section and all new blueprints in your repository.
