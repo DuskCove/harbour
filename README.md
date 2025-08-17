@@ -8,6 +8,7 @@ This repository is a curated collection of **structured eating challenges and fo
 - [Inventory](#inventory)
 - [Blueprints](#blueprints)
   - [Experimental / Extreme Challenges](#experimental--extreme-challenges)
+  - [Controlled Indulgences](#Controlled Indulgence)
   - [Gravity Feed Challenges](#gravity-feed-challenges)
   - [Hearty Meals](#hearty-meals)
   - [Low-Calorie Challenges](#low-calorie-challenges)
@@ -45,6 +46,12 @@ The repository serves as a catalog of **blueprints**—systematic guides designe
 | --------------------------------------------------------------- | ------------- |
 | [Gravity-Feed-5Litres.md](./blueprints/Gravity-Feed-5Litres.md) | Medium        |
 | [Gravity-Feed.md](./blueprints/Gravity-Feed.md)                 | Medium        |
+
+### Controlled Indulgence
+
+| Blueprint                                                         | Achievability |
+| ----------------------------------------------------------------- | ------------- |
+| [Controlled-Indulgence.md](./blueprints/Controlled-Indulgence.md) | Medium        |
 
 ### Hearty Meals
 

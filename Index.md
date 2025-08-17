@@ -10,6 +10,8 @@
 
 ## blueprints
 
+[Controlled-Indulgence.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Controlled-Indulgence.md)
+
 [Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md)
 
 [Experimental-9-Litre-Cereal-And-Milk-Flood.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Experimental-9-Litre-Cereal-And-Milk-Flood.md)
@@ -32,7 +34,7 @@
 
 [Hearty-Meals-Fish-Pie-Edition.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Hearty-Meals-Fish-Pie-Edition.md)
 
-[Hearty-Meals-Road-Beef-Edition.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Hearty-Meals-Road-Beef-Edition.md)
+[Hearty-Meals-Roast-Beef-Edition.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Hearty-Meals-Roast-Beef-Edition.md)
 
 [Hearty-Meals-Shepards-Pie-Edition.md](https://github.com/DuskCove/harbour/tree/main/blueprints/Hearty-Meals-Shepards-Pie-Edition.md)
 
