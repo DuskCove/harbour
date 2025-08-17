@@ -1,128 +1,157 @@
-# DuskCove Harbour Repository
+# Harbour
 
-This repository is a curated collection of **structured eating challenges and food-based events**, organized into detailed plans referred to as **"blueprints."**
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Inventory](#inventory)
-- [Blueprints](#blueprints)
-  - [Experimental / Extreme Challenges](#experimental--extreme-challenges)
-  - [Controlled Indulgences](#controlled-indulgence)
-  - [Gravity Feed Challenges](#gravity-feed-challenges)
-  - [Hearty Meals](#hearty-meals)
-  - [Low-Calorie Challenges](#low-calorie-challenges)
-  - [Mega Bowl Challenges](#mega-bowl-challenges)
-  - [Sandwich Challenges](#sandwich-challenges)
-  - [Scheduled Eating Challenges](#scheduled-eating-challenges)
-  - [Zen / Walking Challenges](#zen--walking-challenges)
-- [Conceptual Themes](#conceptual-themes)
+A catalogue of structured **eating challenges** and **food-based sessions**. Each blueprint balances practical setup with concise narrative and an Achievability rating, so you can pick the right challenge at a glance.
 
 ---
 
-## Overview
+## 📁 Repository Map
 
-The repository serves as a catalog of **blueprints**—systematic guides designed to facilitate and document various eating challenges and food-related events. These blueprints encompass a range of activities, from casual snack walks to elaborate, multi-course consumption events.
-
-- **[Inventory](./inventory/Inventory.md)**: Comprehensive catalog of items associated with these challenges.
-- **[Blueprints](./Index.md)**: Detailed plans for each event, outlining structure, objectives, and guidelines to ensure a consistent and enjoyable experience.
-
----
-
-## Blueprints Categories
-
-### Experimental / Extreme Challenges
-
-| Blueprint                                                                                                         | Achievability | Description                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------------------------------------------------------------- |
-| [Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md](./blueprints/Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md) | Extreme       | Massive single-batch rice pudding and jam consumption challenge. Intense, high-volume experience.   |
-| [Experimental-9-Litre-Cereal-And-Milk-Flood.md](./blueprints/Experimental-9-Litre-Cereal-And-Milk-Flood.md)       | Extreme       | Flood-style cereal and milk session with high volume. Focus on pacing while maintaining chaos.      |
-| [Experimental-9-Litre-Ice-Cream-Volcano.md](./blueprints/Experimental-9-Litre-Ice-Cream-Volcano.md)               | Extreme       | Layered ice cream “eruption” experience. Sequential consumption required to manage volume.          |
-| [Experimental-9-Litre-Layered-Dessert-Tower.md](./blueprints/Experimental-9-Litre-Layered-Dessert-Tower.md)       | Extreme       | Tower of multiple dessert layers, sequential consumption. Focused on order, height, and indulgence. |
-
-### Gravity Feed Challenges
-
-| Blueprint                                                       | Achievability | Description                                                                        |
-| --------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------- |
-| [Gravity-Feed-5Litres.md](./blueprints/Gravity-Feed-5Litres.md) | Medium        | Continuous-feed 5-litre indulgence with fluid pacing. Patience and rhythm are key. |
-| [Gravity-Feed.md](./blueprints/Gravity-Feed.md)                 | Medium        | Original gravity feed challenge, focused on consistency and pacing.                |
-
-### Controlled Indulgence
-
-| Blueprint                                                         | Achievability | Description                                                                                                            |
-| ----------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Controlled-Indulgence.md](./blueprints/Controlled-Indulgence.md) | Medium        | Structured guided sessions focused on indulgence under firm rules, escalating from calm to heavy, immersive sequences. |
-
-### Hearty Meals
-
-| Blueprint                                                                                                               | Achievability | Description                                                              |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
-| [Hearty-Meals-Category-Blueprint.md](./blueprints/Hearty-Meals-Category-Blueprint.md)                                   | Medium        | Overview and category guidance for hearty meal sessions.                 |
-| [Hearty-Meals-Chicken-And-Mushroom-Pie-Edition.md](./blueprints/Hearty-Meals-Chicken-And-Mushroom-Pie-Edition.md)       | Medium        | Specific pie session for indulgence with structured pacing.              |
-| [Hearty-Meals-Chicken-Kiev-Edition.md](./blueprints/Hearty-Meals-Chicken-Kiev-Edition.md)                               | Medium        | Kiev-focused session for methodical consumption.                         |
-| [Hearty-Meals-Crumpets-And-Scrambled-Eggs-Edition.md](./blueprints/Hearty-Meals-Crumpets-And-Scrambled-Eggs-Edition.md) | Medium        | Breakfast-style session, measured pacing to enjoy every bite.            |
-| [Hearty-Meals-Fish-Pie-Edition.md](./blueprints/Hearty-Meals-Fish-Pie-Edition.md)                                       | Medium        | Fish pie indulgence, sequential approach ensuring full enjoyment.        |
-| [Hearty-Meals-Roast-Beef-Edition.md](./blueprints/Hearty-Meals-Roast-Beef-Edition.md)                                   | Medium        | Roast beef structured session with methodical pacing.                    |
-| [Hearty-Meals-Shepards-Pie-Edition.md](./blueprints/Hearty-Meals-Shepards-Pie-Edition.md)                               | Medium        | Shepherd’s pie session emphasizing sequence, fullness, and satisfaction. |
-
-### Low-Calorie Challenges
-
-| Blueprint                                                                                  | Achievability | Description                                                    |
-| ------------------------------------------------------------------------------------------ | ------------- | -------------------------------------------------------------- |
-| [Low-Calorie-Mega-Jelly-Endurance.md](./blueprints/Low-Calorie-Mega-Jelly-Endurance.md)    | Medium        | High-volume jelly, endurance-focused.                          |
-| [Low-Calorie-Quick-Jelly-Challenge.md](./blueprints/Low-Calorie-Quick-Jelly-Challenge.md)  | Medium        | Rapid consumption of jelly, time-limited challenge.            |
-| [Low-Calorie-Tinned-Fruit-Challenge.md](./blueprints/Low-Calorie-Tinned-Fuit-Challenge.md) | Medium        | Tinned fruit session emphasizing volume without high calories. |
-
-### Mega Bowl Challenges
-
-| Blueprint                                                                                 | Achievability | Description                                                     |
-| ----------------------------------------------------------------------------------------- | ------------- | --------------------------------------------------------------- |
-| [Mega-Bowl-ApplePie-Avalanche.md](./blueprints/Mega-Bowl-ApplePie-Avalanche.md)           | Extreme       | Apple pie layered challenge, large volume consumption.          |
-| [Mega-Bowl-Chocolate-Roll-Marathon.md](./blueprints/Mega-Bowl-Chocolate-Roll-Marathon.md) | Extreme       | Chocolate roll marathon session requiring endurance and pacing. |
-| [Mega-Bowl-Extreme.md](./blueprints/Mega-Bowl-Extreme.md)                                 | Extreme       | Multi-item extreme volume session with high-intensity pacing.   |
-| [Mega-Bowl-Scone-Tower.md](./blueprints/Mega-Bowl-Scone-Tower.md)                         | Extreme       | Stacked scone challenge, sequential and methodical.             |
-| [Mega-Bowl-Swiss-Roll-Slam.md](./blueprints/Mega-Bowl-Swiss-Roll-Slam.md)                 | Extreme       | Swiss roll large-scale session with stacked consumption.        |
-| [Mega-Pudding-Mountain.md](./blueprints/Mega-Pudding-Mountain.md)                         | Extreme       | Towering pudding session, immersive and indulgent.              |
-
-### Sandwich Challenges
-
-| Blueprint                                                                             | Achievability | Description                                                         |
-| ------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------- |
-| [Sandwich-Mega-Pile.md](./blueprints/Sandwich-Mega-Pile.md)                           | Medium        | Large stacked sandwich challenge.                                   |
-| [Sandwich-Pile.md](./blueprints/Sandwich-Pile.md)                                     | Medium        | Mid-scale sandwich consumption session.                             |
-| [Sandwich-Stacked.md](./blueprints/Sandwich-Stacked.md)                               | Medium        | Stacked sandwiches with sequential rules for controlled indulgence. |
-| [Sandwich-Timed-Eating-Challenge.md](./blueprints/Sandwich-Timed-Eating-Challenge.md) | Medium        | Time-based sandwich consumption challenge, focus on pace.           |
-| [Sandwich-Zen-Walk.md](./blueprints/Sandwich-Zen-Walk.md)                             | Medium        | Mindful, paced sandwich walk experience.                            |
-
-### Scheduled Eating Challenges
-
-| Blueprint                                                                                                   | Achievability | Description                                          |
-| ----------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------- |
-| [Schedule-2Hour-Micro-Dose-Snack-Variations.md](./blueprints/Schedule-2Hour-Micro-Dose-Snack-Variations.md) | Medium        | 2-hour micro-dosing snack session with varied items. |
-| [Schedule-2Hour-MicroDose.md](./blueprints/Schedule-2Hour-MicroDose.md)                                     | Medium        | 2-hour micro-dose pacing session.                    |
-| [Schedule-2Hour-Mixed.md](./blueprints/Schedule-2Hour-Mixed.md)                                             | Medium        | Mixed-item 2-hour session, structured pacing.        |
-| [Schedule-3Hour-MrKippling-5000-Cals.md](./blueprints/Schedule-3Hour-MrKippling-5000-Cals.md)               | Extreme       | 3-hour, high-calorie Mr Kippling challenge.          |
-| [Schedule-3Hour-MrKippling.md](./blueprints/Schedule-3Hour-MrKippling.md)                                   | Extreme       | 3-hour Mr Kippling pacing session.                   |
-| [Schedule-90Mins-Single-Bites.md](./blueprints/Schedule-90Mins-Single-Bites.md)                             | Medium        | 90-minute single-bite, high-focus session.           |
-
-### Zen / Walking Challenges
-
-| Blueprint                                                                       | Achievability | Description                                                |
-| ------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------- |
-| [Zen-Biscuit-And-Wafer-Stroll.md](./blueprints/Zen-Biscuit-And-Wafer-Stroll.md) | Medium        | Calm biscuit and wafer stroll session.                     |
-| [Zen-Fruit-And-Nut-Wander.md](./blueprints/Zen-Fruit-And-Nut-Wander.md)         | Medium        | Fruit and nut mindful walking.                             |
-| [Zen-Mini-Dessert-Meander.md](./blueprints/Zen-Mini-Dessert-Meander.md)         | Medium        | Mini dessert, slow-paced session for mindfulness.          |
-| [Zen-Mini-Savory-Saunter.md](./blueprints/Zen-Mini-Savory-Saunter.md)           | Medium        | Savory snack, paced walk.                                  |
-| [Zen-Seasonal-Snack-Ramble.md](./blueprints/Zen-Seasonal-Snack-Ramble.md)       | Medium        | Seasonal snack exploration with mindful pacing.            |
-| [Zen-Woods-Snack-Walk.md](./blueprints/Zen-Woods-Snack-Walk.md)                 | Medium        | Woodland snack walking session with structured indulgence. |
+- [`ReadMe.md`](./ReadMe.md) — high-level overview (this file)
+- [`Index.md`](./Index.md) — full catalogue hub
+- **Inventory**
+  - [`Inventory.md`](./inventory/Inventory.md)
+- **Blueprints** (see categories below)
 
 ---
 
-## Conceptual Themes
+## 📑 Contents
 
-- The repository blends **playful experimentation** with **structured planning**, creating memorable and enjoyable food experiences.
-- Detailed inventories and blueprints reflect a **methodical approach**, ensuring consistency and quality across challenges.
-- The structure introduces an element of **gamification**, encouraging participants to engage with challenges in a thoughtful and intentional way.
-- **Achievability ratings** help participants gauge which challenges are approachable versus extreme.
+- [Experimental / Extreme Challenges](#experimental--extreme-challenges)
+- [Controlled Indulgence](#controlled-indulgence)
+- [Gravity Feed Challenges](#gravity-feed-challenges)
+- [Hearty Meals](#hearty-meals)
+- [Low-Calorie Challenges](#low-calorie-challenges)
+- [Mega Bowl Challenges](#mega-bowl-challenges)
+- [Sandwich Challenges](#sandwich-challenges)
+- [Scheduled Eating Challenges](#scheduled-eating-challenges)
+- [Zen / Walking Challenges](#zen--walking-challenges)
 
 ---
+
+## Experimental / Extreme Challenges
+
+_Maximalist set-pieces. Spectacle and scale are the point; practicality is not. Expect unwieldy builds, runaway volume, and theatrical excess._
+
+| Blueprint                                                                                                                      | Description                                                                     | Achievability |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------------- |
+| [Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md](./blueprints/experimental/Experimental-9-Litre-Box-Rice-Pudding-And-Jam.md) | A boxed bulk-load of rice pudding drowned in jam; relentless, heavy sweetness.  | Extreme       |
+| [Experimental-9-Litre-Cereal-And-Milk-Flood.md](./blueprints/experimental/Experimental-9-Litre-Cereal-And-Milk-Flood.md)       | Family-sized cereal deluge with milk; fast swelling volume, little respite.     | Extreme       |
+| [Experimental-9-Litre-Ice-Cream-Volcano.md](./blueprints/experimental/Experimental-9-Litre-Ice-Cream-Volcano.md)               | Meltdown of ice cream, sauce, and toppings; cold shock plus sheer mass.         | Extreme       |
+| [Experimental-9-Litre-Layered-Dessert-Tower.md](./blueprints/experimental/Experimental-9-Litre-Layered-Dessert-Tower.md)       | Multi-layer trifle-style tower; textures stack until everything becomes weight. | Extreme       |
+
+---
+
+## Controlled Indulgence
+
+_Discipline over desire. Pacing, sequencing, and rules turn comfort foods into structured trials._
+
+| Blueprint                                                                                                      | Description                                                                      | Achievability |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------- |
+| [Controlled-Indulgence.md](./blueprints/controlled/Controlled-Indulgence.md)                                   | The core framework: timed mouthfuls, enforced pauses, clear stop/continue rules. | Medium        |
+| [Controlled-Indulgence-Biscuit-Sequence.md](./blueprints/controlled/Controlled-Indulgence-Biscuit-Sequence.md) | Ordered biscuit run with mandatory completion once a batch starts.               | Medium        |
+
+---
+
+## Gravity Feed Challenges
+
+_Let gravity do the work. Flow rate, vessel height, and tube diameter become the battlefield._
+
+| Blueprint                                                                    | Description                                                          | Achievability |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------- |
+| [Gravity-Feed.md](./blueprints/gravity-Feed/Gravity-Feed.md)                 | Standard gravity setup; smooth continuous flow with clamp control.   | Medium        |
+| [Gravity-Feed-5Litres.md](./blueprints/gravity-Feed/Gravity-Feed-5Litres.md) | Larger-volume variant that tests pacing over a longer, heavier pour. | Medium        |
+
+---
+
+## Hearty Meals
+
+_Traditional plates scaled or sequenced to push satiety the old-fashioned way: rich mains, dense carbs, and comforting heft._
+
+| Blueprint                                                                                                                            | Description                                                          | Achievability |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------- |
+| [Hearty-Meals-Category-Blueprint.md](./blueprints/hearty-meals/Hearty-Meals-Category-Blueprint.md)                                   | Category rules for building solid, meal-based sessions.              | Medium        |
+| [Hearty-Meals-Chicken-And-Mushroom-Pie-Edition.md](./blueprints/hearty-meals/Hearty-Meals-Chicken-And-Mushroom-Pie-Edition.md)       | Creamy pie with pastry weight; steady, cumulative fullness.          | Medium        |
+| [Hearty-Meals-Chicken-Kiev-Edition.md](./blueprints/hearty-meals/Hearty-Meals-Chicken-Kiev-Edition.md)                               | Rich butter centre and breadcrumbed bulk; savoury overload.          | Medium        |
+| [Hearty-Meals-Crumpets-And-Scrambled-Eggs-Edition.md](./blueprints/hearty-meals/Hearty-Meals-Crumpets-And-Scrambled-Eggs-Edition.md) | Soft porosity + eggs = deceptive sponge for volume.                  | Medium        |
+| [Hearty-Meals-Fish-Pie-Edition.md](./blueprints/hearty-meals/Hearty-Meals-Fish-Pie-Edition.md)                                       | Potato topping and creamy filling combine for dense comfort.         | Medium        |
+| [Hearty-Meals-Roast-Beef-Edition.md](./blueprints/hearty-meals/Hearty-Meals-Roast-Beef-Edition.md)                                   | Classic roast scaled up; meat, potatoes, and trimmings as attrition. | Medium        |
+| [Hearty-Meals-Shepards-Pie-Edition.md](./blueprints/hearty-meals/Hearty-Meals-Shepards-Pie-Edition.md)                               | Mince + mash slab served big; steady, warming load.                  | Medium        |
+
+---
+
+## Low-Calorie Challenges
+
+_Volume without the calories (relatively). Hydration, wobble, and repetition test resolve more than raw intake._
+
+| Blueprint                                                                                               | Description                                                 | Achievability |
+| ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------- |
+| [Low-Calorie-Mega-Jelly-Endurance.md](./blueprints/low-calorie/Low-Calorie-Mega-Jelly-Endurance.md)     | Giant bowl of set jelly; cool, slippery endurance.          | Medium        |
+| [Low-Calorie-Quick-Jelly-Challenge.md](./blueprints/low-calorie/Low-Calorie-Quick-Jelly-Challenge.md)   | Smaller jelly rounds raced on the clock.                    | Medium        |
+| [Low-Calorie-Tinned-Fruit-Challenge.md](./blueprints/low-calorie/Low-Calorie-Tinned-Fruit-Challenge.md) | Syrup and fruit segments; watery fullness accumulates fast. | Medium        |
+
+---
+
+## Mega Bowl Challenges
+
+_One vessel. Many components. The bowl becomes the arena where textures blend and volume snowballs._
+
+| Blueprint                                                                                           | Description                                                             | Achievability |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------- |
+| [Mega-Bowl-Extreme.md](./blueprints/mega-bowl/Mega-Bowl-Extreme.md)                                 | Catch-all extreme format: heap, layer, drown, finish.                   | Extreme       |
+| [Mega-Bowl-Chocolate-Roll-Marathon.md](./blueprints/mega-bowl/Mega-Bowl-Chocolate-Roll-Marathon.md) | Multiple chocolate rolls softened and submerged; relentless cocoa mass. | Extreme       |
+| [Mega-Bowl-Swiss-Roll-Slam.md](./blueprints/mega-bowl/Mega-Bowl-Swiss-Roll-Slam.md)                 | Swiss rolls turned to sponge; cream and syrup amplify weight.           | Extreme       |
+| [Mega-Bowl-ApplePie-Avalanche.md](./blueprints/mega-bowl/Mega-Bowl-ApplePie-Avalanche.md)           | Pie pieces, custard, and cream piled into a collapsing mound.           | Extreme       |
+| [Mega-Bowl-Scone-Tower.md](./blueprints/mega-bowl/Mega-Bowl-Scone-Tower.md)                         | Scones with jam/cream stacked high; dry-to-wet swing tests pacing.      | Extreme       |
+| [Mega-Pudding-Mountain.md](./blueprints/mega-bowl/Mega-Pudding-Mountain.md)                         | Everything pudding: custard, sponge, cream, fruit—built into a peak.    | Extreme       |
+
+---
+
+## Sandwich Challenges
+
+_Bread as ballast. Stacks, piles, and clocks turn simple fillings into serious cargo._
+
+| Blueprint                                                                                      | Description                                                          | Achievability |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------- |
+| [Sandwich-Pile.md](./blueprints/sandwich/Sandwich-Pile.md)                                     | Core pile format: uniform sandwiches stacked and cleared.            | Medium        |
+| [Sandwich-Mega-Pile.md](./blueprints/sandwich/Sandwich-Mega-Pile.md)                           | Full-loaf ambition with simple fillings; deliberate pacing required. | Medium        |
+| [Sandwich-Stacked.md](./blueprints/sandwich/Sandwich-Stacked.md)                               | Tall stacks with structural rules; bite path is enforced.            | Medium        |
+| [Sandwich-Timed-Eating-Challenge.md](./blueprints/sandwich/Sandwich-Timed-Eating-Challenge.md) | Fixed intervals per sandwich—metronomic pressure mounts.             | Medium        |
+| [Sandwich-Zen-Walk.md](./blueprints/sandwich/Sandwich-Zen-Walk.md)                             | Slow walk, slow bites; calm ritual meets creeping heaviness.         | Medium        |
+
+---
+
+## Scheduled Eating Challenges
+
+_Intervals create waves. What feels modest at first becomes punishing by repetition._
+
+| Blueprint                                                                                                            | Description                                                    | Achievability |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------- |
+| [Schedule-2Hour-MicroDose.md](./blueprints/schedule/Schedule-2Hour-MicroDose.md)                                     | Small but steady intakes; cumulative by design.                | Medium        |
+| [Schedule-2Hour-Micro-Dose-Snack-Variations.md](./blueprints/schedule/Schedule-2Hour-Micro-Dose-Snack-Variations.md) | Same tempo, varied snacks; novelty offsets creeping fatigue.   | Medium        |
+| [Schedule-2Hour-Mixed.md](./blueprints/schedule/Schedule-2Hour-Mixed.md)                                             | Mixed sweet/savoury rotation; rhythm control is key.           | Medium        |
+| [Schedule-3Hour-MrKippling.md](./blueprints/schedule/Schedule-3Hour-MrKippling.md)                                   | Patisserie cadence over hours; sugar surge meets endurance.    | Extreme       |
+| [Schedule-3Hour-MrKippling-5000-Cals.md](./blueprints/schedule/Schedule-3Hour-MrKippling-5000-Cals.md)               | High-cal target layered onto the 3-hour format; brutal finish. | Extreme       |
+| [Schedule-90Mins-Single-Bites.md](./blueprints/schedule/Schedule-90Mins-Single-Bites.md)                             | Minimal bites on a strict timer—easy start, hard end.          | Medium        |
+
+---
+
+## Zen / Walking Challenges
+
+_Quiet motion, measured bites. The point is presence—fullness arrives without fanfare._
+
+| Blueprint                                                                           | Description                                                     | Achievability |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------- |
+| [Zen-Biscuit-And-Wafer-Stroll.md](./blueprints/zen/Zen-Biscuit-And-Wafer-Stroll.md) | Light, crisp textures on a calm loop; no rush.                  | Medium        |
+| [Zen-Fruit-And-Nut-Wander.md](./blueprints/zen/Zen-Fruit-And-Nut-Wander.md)         | Natural sugars and fats; slow grazing as you walk.              | Medium        |
+| [Zen-Mini-Dessert-Meander.md](./blueprints/zen/Zen-Mini-Dessert-Meander.md)         | Small desserts spaced by steps; sweetness paced by distance.    | Medium        |
+| [Zen-Mini-Savory-Saunter.md](./blueprints/zen/Zen-Mini-Savory-Saunter.md)           | Savoury nibbles with gentle motion; palate stays interested.    | Medium        |
+| [Zen-Seasonal-Snack-Ramble.md](./blueprints/zen/Zen-Seasonal-Snack-Ramble.md)       | Seasonal picks keep it fresh; ritual over speed.                | Medium        |
+| [Zen-Woods-Snack-Walk.md](./blueprints/zen/Zen-Woods-Snack-Walk.md)                 | Woodland route and quiet bites; environment does half the work. | Medium        |
+
+---
+
+### Notes
+
+- **Achievability** is a practical gauge, not a dare.
+- Keep `ReadMe.md` high-level; maintain exhaustive listings in `Index.md`.
+- For large category growth, add sub-indexes within each `blueprints/<category>` folder.
