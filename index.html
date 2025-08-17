@@ -1,15 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DuskCove Harbour</title>
-    <!-- Docsify -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+    <!-- Docsify theme (optional) -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+
+    <!-- Docsify config -->
+    <script>
+        window.$docsify = {
+            name: 'DuskCove Harbour',
+            repo: 'https://github.com/DuskCove/harbour',
+            loadSidebar: true,     // Optional, if you want a sidebar.md
+            subMaxLevel: 2         // How deep to show headings
+        };
+    </script>
 </head>
 
 <body>
-    <div id="app">Loading...</div>
+    <!-- Docsify mounts here -->
+    <div id="app"></div>
+
+    <!-- Docsify script -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 
 </html>
